@@ -1,0 +1,12 @@
+.heroTypedDescriptiveText {
+    color: floralwhite;
+    text-shadow: 5px 5px 10px #000000;
+}
+
+.heroTypedDescriptiveChangingText{
+    color:rgb(169, 223, 191)
+}
+
+.heroTypedDescriptiveBgColor{
+   background-color:rgb(191, 201, 202)
+}
